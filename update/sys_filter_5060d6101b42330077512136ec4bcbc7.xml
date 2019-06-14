@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_filter">
+    <sys_filter action="INSERT_OR_UPDATE">
+        <filter table="incident">state=7^ORstate=3^EQ<item endquery="false" field="state" goto="false" newquery="false" operator="=" or="false" value="7"/>
+            <item endquery="false" field="state" goto="false" newquery="false" operator="=" or="true" value="3"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </filter>
+        <group/>
+        <last_used/>
+        <mobile>false</mobile>
+        <roles/>
+        <sys_class_name>sys_filter</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-11 06:02:10</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>5060d6101b42330077512136ec4bcbc7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sri</sys_name>
+        <sys_package display_value="SINDUIT" source="x_366651_sinduit">a5dbb1d01b02330077512136ec4bcbde</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SINDUIT">a5dbb1d01b02330077512136ec4bcbde</sys_scope>
+        <sys_update_name>sys_filter_5060d6101b42330077512136ec4bcbc7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-11 06:02:10</sys_updated_on>
+        <table>incident</table>
+        <title>sri</title>
+        <user/>
+    </sys_filter>
+    <sys_translated_text action="delete_multiple" query="documentkey=5060d6101b42330077512136ec4bcbc7"/>
+</record_update>

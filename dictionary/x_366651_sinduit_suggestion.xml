@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="suggestion " max_length="40" name="x_366651_sinduit_suggestion" type="collection">
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="suggestions" max_length="50" name="suggestions" type="string"/>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <element attributes="edge_encryption_enabled=true" label="time 1" mandatory="true" max_length="40" name="u_glide_date_time_5" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true" label="time 2" mandatory="true" max_length="40" name="u_glide_date_time_6" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true" dependent="u_glide_date_time_5" dependent_on_field="u_glide_date_time_5" label="suggestion 1" mandatory="true" max_length="40" name="u_string_3" type="string" use_dependent_field="true"/>
+        <element attributes="edge_encryption_enabled=true" dependent="u_glide_date_time_6" dependent_on_field="u_glide_date_time_6" label="suggestion 2" mandatory="true" max_length="40" name="u_string_4" type="string" use_dependent_field="true"/>
+        <index name="index">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>

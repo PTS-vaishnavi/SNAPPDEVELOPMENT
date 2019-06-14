@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <condition/>
+        <description>Default access control on x_366651_sinduit_suggestion</description>
+        <name>x_366651_sinduit_suggestion</name>
+        <operation display_value="write">write</operation>
+        <script/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-13 13:36:35</sys_created_on>
+        <sys_id>1c9b42051b8e730077512136ec4bcbd6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_366651_sinduit_suggestion</sys_name>
+        <sys_package display_value="SINDUIT" source="x_366651_sinduit">a5dbb1d01b02330077512136ec4bcbde</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SINDUIT">a5dbb1d01b02330077512136ec4bcbde</sys_scope>
+        <sys_update_name>sys_security_acl_1c9b42051b8e730077512136ec4bcbd6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-13 13:36:35</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+</record_update>

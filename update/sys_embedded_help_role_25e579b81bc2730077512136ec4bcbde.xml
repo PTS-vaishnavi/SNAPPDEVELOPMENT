@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_366651_sinduit.collage management" name="x_366651_sinduit.collage management">fcb5717c1bc2730077512136ec4bcb9f</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-12 17:23:26</sys_created_on>
+        <sys_id>25e579b81bc2730077512136ec4bcbde</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>fcb5717c1bc2730077512136ec4bcb9f</sys_name>
+        <sys_package display_value="SINDUIT" source="x_366651_sinduit">a5dbb1d01b02330077512136ec4bcbde</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SINDUIT">a5dbb1d01b02330077512136ec4bcbde</sys_scope>
+        <sys_update_name>sys_embedded_help_role_25e579b81bc2730077512136ec4bcbde</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-12 17:23:26</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

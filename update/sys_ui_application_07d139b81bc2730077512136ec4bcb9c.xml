@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_application">
+    <sys_ui_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <hint/>
+        <name>suggestion box</name>
+        <order/>
+        <roles>x_366651_sinduit.suggestion_box_user</roles>
+        <sys_class_name>sys_ui_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-12 17:05:47</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>07d139b81bc2730077512136ec4bcb9c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>suggestion box</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="SINDUIT" source="x_366651_sinduit">a5dbb1d01b02330077512136ec4bcbde</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SINDUIT">a5dbb1d01b02330077512136ec4bcbde</sys_scope>
+        <sys_update_name>sys_ui_application_07d139b81bc2730077512136ec4bcb9c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-12 17:05:47</sys_updated_on>
+    </sys_ui_application>
+</record_update>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_view">
+    <sys_ui_view action="INSERT_OR_UPDATE">
+        <group/>
+        <hidden>false</hidden>
+        <name>catalog_induit3_service_catalog3</name>
+        <roles/>
+        <sys_class_name>sys_ui_view</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-12 05:25:19</sys_created_on>
+        <sys_id>168153241b4e330077512136ec4bcbcf</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>INDUIT3 Service catalog3 View</sys_name>
+        <sys_package display_value="SINDUIT" source="x_366651_sinduit">a5dbb1d01b02330077512136ec4bcbde</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SINDUIT">a5dbb1d01b02330077512136ec4bcbde</sys_scope>
+        <sys_update_name>sys_ui_view_168153241b4e330077512136ec4bcbcf</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-12 05:25:19</sys_updated_on>
+        <title>INDUIT3 Service catalog3 View</title>
+        <user/>
+    </sys_ui_view>
+</record_update>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="radio" max_length="40" name="x_366651_sinduit_radio" sizeclass="4" type="collection">
+        <element default="test" label="short desk1" max_length="1000" name="short_desk1" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="emial" label="New Choice" max_length="40" name="u_choice_4" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Choice 1" sequence="0" value="Choice 1"/>
+                <element inactive_on_update="false" label="Choice 2" sequence="1" value="Choice 2"/>
+                <element inactive_on_update="false" label="Choice 3" sequence="2" value="Choice 3"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="New Journal" max_length="4000" name="u_journal_8" type="journal"/>
+        <element label="New Reference" max_length="32" name="u_reference_6" reference="cmdb_ci_appl_dot_net" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="New String" max_length="40" name="u_string_7" type="string"/>
+    </element>
+</database>
